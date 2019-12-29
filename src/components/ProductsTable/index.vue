@@ -12,6 +12,7 @@
                         small
                         color="deep-purple lighten-1"
                         class="white--text mr-2"
+                        name="create-product"
                         @click="goToCreateProduct"
                 >Add new product</v-btn>
             </div>
