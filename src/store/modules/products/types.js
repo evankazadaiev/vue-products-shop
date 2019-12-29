@@ -1,0 +1,7 @@
+const types = {
+  CREATE_PRODUCT: 'CREATE_PRODUCT',
+  UPDATE_PRODUCT: 'UPDATE_PRODUCT',
+  DELETE_PRODUCT: 'DELETE_PRODUCT'
+};
+
+export default types;
