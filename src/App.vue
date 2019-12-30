@@ -8,14 +8,12 @@
 </template>
 
 <script>
-const Notification = () => import('./components/Notification/');
 const Modal = () => import('@/modals/Modal');
 
 export default {
   name: 'App',
 
   components: {
-    Notification,
     Modal
   }
 };
